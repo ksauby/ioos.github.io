@@ -42,6 +42,7 @@ This 'cookbook' contains guidelines for IOOS regional data managers to prepare a
 
 
 ### **IOOS SOS Guidelines**
+**This convention has been deprecated due to IOOS’ transition from the OGC SOS/SWE suite of standards to ERDDAP for in situ data dissemination. All relevant guidance in this standard has been superceded as of the 2020-01-10 publication date of the [IOOS Metadata Profile 1.2](https://ioos.github.io/ioos-metadata/). Please refer to the IOOS Metadata Profile for current guidance.**
 The IOOS SOS Guidelines document the technical specifications, guidelines, templates, and tests essential for configuration and deployment of an IOOS DMAC-compliant SOS server.  The IOOS SOS is a profile of the OGC Sensor Web Enablement (SWE) Sensor Observation Service (SOS) v1.0.  The SOS Guidelines site includes the technical specifications of the IOOS SOS Web Service Description Document (WSDD), response templates for IOOS SOS operations (GetCapabilities, DescribeSensor, GetObservation), and a compliance test suite description.
 * [IOOS SOS Application Profile Overview](https://ioos.github.io/sos-guidelines/)
 * [IOOS SOS 1.0 Web Service Description Document](https://ioos.github.io/sos-guidelines/sos-wsdd-1-0.html)   
@@ -51,11 +52,13 @@ The IOOS Marine Life Data Network (MLDN) aims to meet the needs identified by th
 * [IOOS Marine Life Data Network Recommendations](https://ioos.github.io/marine_life_data_network/)
 
 ### **IOOS Data Encoding in CSV/TSV**
+**This convention has been deprecated due to IOOS’ transition from the OGC SOS/SWE suite of standards to ERDDAP for in situ data dissemination. All relevant guidance in this standard has been superceded as of the 2020-01-10 publication date of the [IOOS Metadata Profile 1.2](https://ioos.github.io/ioos-metadata/). Please refer to the IOOS Metadata Profile for current guidance.**
 The IOOS Convention for Observation Data Encoding in CSV/TSV describes the rules and constraints for encoding observation data as plain text Comma-Separated Values (CSV) or Tab-Separated Values (TSV).
 * [IOOS Convention for Observation Data Encoding in CSV/TSV](http://ioos.github.io/ioos-csv-tsv/)
 
 
 ### **IOOS Controlled Vocabularies**
+**Deprecated as of 2024-04-29.**
 A collection of guidelines on the Controlled Vocabularies usage in IOOS-compliant data services.
 * [IOOS Controlled Vocabularies](https://github.com/ioos/vocabularies)
 
